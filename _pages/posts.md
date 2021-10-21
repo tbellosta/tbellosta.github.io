@@ -1,6 +1,6 @@
 ---
 title: "Posts by Tag"
 permalink: /posts/
-layout: tags
+layout: splash
 author_profile: true
 ---

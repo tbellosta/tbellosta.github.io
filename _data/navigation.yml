@@ -1,7 +1,7 @@
 # main links
 main:
    - title: "Home"
-     url: /posts/
+     url: https://tbellosta.com
    - title: "Research"
      url: /research/
    - title: "Publications"

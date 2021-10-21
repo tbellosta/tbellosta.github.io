@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : tbellosta
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -116,10 +116,10 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tbellosta"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "https://twitter.com/tbellosta"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/tommaso-bellosta"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tbellosta"
@@ -132,7 +132,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tbellosta"
+      #url: "https://twitter.com/tbellosta"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/tommaso-bellosta"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:

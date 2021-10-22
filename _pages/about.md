@@ -1,6 +1,9 @@
 ---
+layout: single
+classes: wide
 permalink: /about/
 title: "Curriculum Vitae"
+author_profile: true
 ---
 ### Work Experience
 - **Sep 2019 - current** Teaching Assistant for the course of Computational Fluid Dynamics at *Departement of aerospace Science and Technology, Politecnico di Milano*

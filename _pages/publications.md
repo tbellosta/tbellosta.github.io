@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 ---
 ### 2021
+- Gori, Congedo, le Maitre, Bellosta, Guardone, **Modeling In-Flight Ice Accretion Under Uncertain Conditions**, *Journal of Aircraft*
 - Bellosta, Guardone, Gori, Congedo, le Maitre, **Uncertainty quantification for in-flight ice accretion under Appendix-C and Appendix-O conditions**, *AIAA AVIATION 2021*
 - Morelli, Bellosta, Guardone, **Efficient radial basis function mesh deformation methods for aircraft icing**, *Journal of Computational and Applied Mathematics*
 - Arizmendi, Della Noce, Gallia, Bellosta, Guardone, **Numerical Simulation of a thermal ice protection system including state-of-the-art liquid film model**, *Journal of Computational and Applied Mathematics*

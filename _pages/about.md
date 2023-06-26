@@ -6,13 +6,14 @@ title: "Curriculum Vitae"
 author_profile: true
 ---
 ### Work Experience
-- **Oct 2022 - current** Research Fellow at *Departement of aerospace Science and Technology, Politecnico di Milano*
+- **May 2023 - Current** Junior Assistant Professor at *Department of aerospace Science and Technology, Politecnico di Milano*
+- **Oct 2022 - May 2023** Research Fellow at *Departement of aerospace Science and Technology, Politecnico di Milano*
 - **Sep 2019 - Aug 2022** Teaching Assistant for the course of Computational Fluid Dynamics at *Departement of aerospace Science and Technology, Politecnico di Milano*
 - **Feb-Jun 2020** Teaching Assistant for the course of Compressible Gas Dynamics at *Departement of aerospace Science and Technology, Politecnico di Milano*
 - **Jun-Oct 2019** Research Fellow at *Departement of aerospace Science and Technology, Politecnico di Milano*
 
 ### Education
-- **current** PhD candidate at *Departement of aerospace Science and Technology, Politecnico di Milano*
+- **Jan 2023** PhD candidate at *Departement of aerospace Science and Technology, Politecnico di Milano*
 - **April 2019** MSc. in Aeronautical Engineering, *Politecnico di Milano*
 - **Sept 2016** BSc. in Aerospace Engineering, *Politecnico di Milano*
 - **July 2013** High School Diploma *Liceo Scientifico “Ven. A. Luzzago”, Brescia*

@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tommaso Bellosta"
+title                    : "Tommaso Bellosta, PhD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tommaso Bellosta"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tommaso Bellosta"
+  name             : "Tommaso Bellosta, PhD"
   avatar           : "/assets/images/fotoCV.png"
-  bio              : "Aerodynamics Engineer, PhD Student"
+  bio              : "Aerodynamics Engineer"
   location         : "Milan, IT"
   email            :
   links:

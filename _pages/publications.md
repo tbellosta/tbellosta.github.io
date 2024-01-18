@@ -4,6 +4,10 @@ permalink: /publications/
 layout: single
 author_profile: true
 ---
+### 2024
+- A. Donizetti, T. Bellosta, A. Guardone, **Ice Shape Convergence in Multi-Step Ice Accretion Simulations over Straight Wings**, *AIAA SciTech 2024*
+
+
 ### 2023
 - T. Bellosta, G. Baldan, G. Sirianni, A. Guardone, **Lagrangian and Eulerian algorithms for water droplets in in-flight ice accretion**, *Journal of Computational and Applied Mathematics*
 - M. Gallia, T. Bellosta, A. Guardone, **Automatic shape characterization of simulated ice shapes**, *Journal of Computational and Applied Mathematics*
